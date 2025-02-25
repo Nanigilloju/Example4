@@ -1,4 +1,4 @@
-st.title(" :bar_chart: Sample SuperStore EDA")
+st.title(":bar_chart: Sample SuperStore EDA")
 df = pd.read_excel("Sample - Superstore.xls")
 
 col1, col2 = st.columns((2))
